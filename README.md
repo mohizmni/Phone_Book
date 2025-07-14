@@ -1,4 +1,4 @@
-#Phone Book Application in C++
+Phone Book Application in C++
 
 A simple console-based phone book app for managing contacts and favorites.
 Features
